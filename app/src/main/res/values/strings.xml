@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnIut">Trouver l\'IUT</string>
+    <string name="title_activity_trace">Map</string>
+    <string name="btnTrace">Tracer son parcours</string>
+</resources>
